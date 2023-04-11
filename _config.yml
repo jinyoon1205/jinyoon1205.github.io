@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "진윤의 블로그"
+locale                   : "en-US"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YOON"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://jinyoon1205.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "YOON JIN"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "프론트엔드 개발자입니다."
+  bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
